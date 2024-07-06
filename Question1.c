@@ -6,5 +6,7 @@
 
 
 int addFunction(int input1, int input2){
-
+    int sum = 0;
+    sum = input1 + input2;
+    return sum;
 }
